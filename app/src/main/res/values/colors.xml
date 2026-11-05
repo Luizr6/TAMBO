@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores corporativos Tambo -->
+    <color name="tambo_purple">#A60075</color>
+    <color name="tambo_yellow">#FFD400</color>
+    <color name="tambo_yellow_light">#FBE38A</color>
+    <color name="tambo_pink_light">#EFD0E3</color>
+    <color name="tambo_text">#1A1A1A</color>
+    <color name="overlay_white">#D9FFFFFF</color>
+</resources>

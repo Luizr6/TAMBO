@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Tambo</string>
+
+    <!-- Login -->
+    <string name="login_subtitulo">Sistema de control de tiendas a nivel nacional.</string>
+    <string name="correo">Correo</string>
+    <string name="clave">Clave</string>
+    <string name="hint_correo">name@example.com</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="recuperar_clave">RECUPERAR CONTRASEÑA</string>
+    <string name="error_correo">Ingresa un correo válido</string>
+    <string name="error_clave">La clave debe tener al menos 4 caracteres</string>
+    <string name="msg_recuperar">Te enviaremos un enlace para recuperar tu contraseña</string>
+
+    <!-- Menú -->
+    <string name="control_locales">Control de locales</string>
+    <string name="google_maps">GOOGLE MAPS</string>
+    <string name="mantenedor">MANTENEDOR</string>
+
+    <!-- Listado -->
+    <string name="locales">Locales</string>
+    <string name="horario_atencion">Horario de atención</string>
+    <string name="gerente_fmt">Gerente: %1$s</string>
+    <string name="sin_sedes">Aún no hay locales registrados.\nToca + para agregar uno.</string>
+    <string name="agregar_local">Agregar local</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="confirmar_eliminar">¿Eliminar el local %1$s?</string>
+
+    <!-- Registro -->
+    <string name="registro_local">Registro local</string>
+    <string name="editar_local">Editar local</string>
+    <string name="local">Local</string>
+    <string name="gerente">Gerente</string>
+    <string name="direccion">Dirección</string>
+    <string name="horario">Horario de atención</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="error_requerido">Campo obligatorio</string>
+    <string name="error_latitud">Latitud inválida (-90 a 90)</string>
+    <string name="error_longitud">Longitud inválida (-180 a 180)</string>
+    <string name="msg_sede_guardada">Local guardado</string>
+
+    <!-- Mapa -->
+    <string name="busca_local">¡Busca tu local más cercano!</string>
+    <string name="titulo_mapa_sede">Tambo: %1$s</string>
+    <string name="msg_ubicacion_elegida">Ubicación seleccionada, completa el registro</string>
+</resources>
